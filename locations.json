@@ -1,0 +1,36 @@
+{
+    "place":[
+        {
+            "id":1,
+            "name":"Catedral de puebla",
+            "lat": 19.04309834792131,
+            "lon": -98.19832913528003,
+            "description":"La Catedral de Puebla, también conocida como la Catedral Basílica de Nuestra Señora de la Inmaculada Concepción, es una majestuosa obra arquitectónica ubicada en el centro histórico de Puebla, México. Construida entre los siglos XVI y XVII, es uno de los ejemplos más destacados de arquitectura colonial en México y es famosa por su impresionante fachada de estilo barroco y su rica decoración interior. Esta catedral es un importante sitio religioso y un punto de referencia icónico en la ciudad de Puebla.",
+            "img":"https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/2d/fd/a3/shutterstock-1051158437.jpg"
+        },
+        {
+            "id":2,
+            "name":"Universidad Tecnológica de Puebla",
+            "lat": 19.058538993315604,
+            "lon": -98.15199382065126,
+            "description":"La Universidad Tecnológica de Puebla es una institución educativa en Puebla, México, que ofrece una amplia gama de programas académicos, incluyendo carreras técnicas y universitarias.",
+            "img":"https://th.bing.com/th/id/R.04a3b7736cebf84cf91f9202034a6593?rik=ntthJOY3yO6iEA&riu=http%3a%2f%2ftutorias.utpuebla.edu.mx%2fjquery.sldr-master%2fimg%2fslide12.jpg&ehk=o47pu7oZWw0Ow03WBA0XdwpWETnQWnLS01k4vW6yGog%3d&risl=&pid=ImgRaw&r=0"
+        },        
+        {
+            "id":3,
+            "name":"Museo del Fuerte de Lorero",
+            "lat": 19.05802981612569,
+            "lon": -98.18702673229751,
+            "description":"El Fuerte de Loreto es un histórico sitio en Puebla, México, donde tuvo lugar la famosa Batalla del 5 de Mayo de 1862. Este fuerte es un símbolo de la resistencia mexicana contra la invasión francesa y representa la valentía del ejército mexicano. Actualmente, es un museo que alberga objetos y exhibiciones relacionados con esta histórica batalla y la lucha por la independencia de México.",
+            "img":"https://th.bing.com/th/id/OIP.yDy9H0OJbMa_Ok4breGS1AHaE6?pid=ImgDet&rs=1"
+        },
+        {
+            "id":4,
+            "name":"Fuente de los Frailes",
+            "lat": 19.096842709461335,
+            "lon": -98.23358408492479,
+            "description":"La Fuente de los Frailes en Puebla es una histórica fuente de estilo barroco que data del siglo XVIII. Se encuentra en el centro histórico de la ciudad y es conocida por su diseño ornamental y esculturas que representan a frailes dominicos. Esta fuente es un hermoso ejemplo de la arquitectura colonial y un punto de referencia importante en Puebla.",
+            "img":"https://th.bing.com/th/id/OIP.LXrwl8_7MnXVDwXdZmaRcwHaFj?pid=ImgDet&rs=1"
+        }
+    ]
+}   
